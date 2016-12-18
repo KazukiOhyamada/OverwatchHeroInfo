@@ -14,6 +14,7 @@ namespace OverwatchHeroInfo.iOS
 		{
 			// if you want to use a different Application Delegate class from "AppDelegate"
 			// you can specify it here.
+			//2016/12/17
 			UIApplication.Main(args, null, "AppDelegate");
 		}
 	}
